@@ -1,4 +1,5 @@
-import os,re,argparse
+#!/usr/bin/env python3
+import os,re
 def getmonitors():
     monitors = os.popen("xrandr | grep ' connected '").readlines()
     if len(monitors)<=0:

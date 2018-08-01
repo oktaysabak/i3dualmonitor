@@ -4,4 +4,4 @@ If you want the second monitor to be to the left of the first monitor, press 1. 
 For the program to work correctly, you need to have Python3 installed on your system.
 The program can be run as follows:
 
-# python3 i3dualmon.py
+` python i3dualmon.py `
